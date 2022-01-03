@@ -1,4 +1,6 @@
 import streamlit as st
+import torch
+import torchvision
 from detectron2.utils.logger import setup_logger
 import numpy as np
 import os, json, cv2, random
