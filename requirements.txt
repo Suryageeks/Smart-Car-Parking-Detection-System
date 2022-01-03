@@ -1,5 +1,5 @@
 numpy==1.19.5
-https://download.pytorch.org/whl/cu101/torch_stable.html 
+-f https://download.pytorch.org/whl/cu101/torch_stable.html 
 pyyaml==5.1.0
 Cython==0.29.16
 decorator==4.4.2
