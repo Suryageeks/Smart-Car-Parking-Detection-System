@@ -1,4 +1,4 @@
-git+https://github.com/numpy/numpy.git
+numpy>=1.16.0
 pyyaml==5.1.0
 Cython==0.29.16
 decorator==4.4.2
