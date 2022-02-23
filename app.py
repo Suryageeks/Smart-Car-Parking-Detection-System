@@ -97,7 +97,7 @@ folium_static(m)
 #Message API
 #API KEY
 headers={
-    "authorization":"DqMpvl7mny8YH2KcWJBQCuo6gS035G1hXbdk9iTPLeFaAfNzxs5I0QOZxBpGJg9PRXEWCjfUkKH6VcTl",    
+    "authorization":"xxxxxx", #put your own api key   
     "Content-Type":"application/x-www-form-urlencoded"
 }
 
